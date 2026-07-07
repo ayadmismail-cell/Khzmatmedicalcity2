@@ -1,0 +1,6 @@
+{
+  "name": "Khzmat Medical City",
+  "description": "Premium corporate-grade landing page for Khzmat Medical City (شاری پزیشکی خزمەت) in Kalar, Iraq, featuring department grids, NICU info, doctor directories, and language selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
